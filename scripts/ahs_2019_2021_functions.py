@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from scipy.stats import binom, ttest_1samp
 from scipy.integrate import cumtrapz
+import matplotlib.pyplot as plt
 
 def cleanup_column(ahsn, col_name, ahsdict):
     """Cleaning up AHS data. Data is imported as strings of strings, and this gets rid of the extra set of quotation marks"""

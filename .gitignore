@@ -7,3 +7,4 @@ data/ahs/puf*
 data/florida_septic_inspections/*
 data/geography_files/tl_2012_us_county.zip
 data/geography_files/tl_2012_us_county/*
+scripts/__pycache__/*
