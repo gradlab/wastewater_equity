@@ -83,8 +83,8 @@ for state in states:
     ax.set_title(state)
 plt.suptitle("Fraction of resident population receiving collection")
 plt.tight_layout()
-plt.savefig('../figures/epa_sewer_connectivity_continuous.png', dpi = 300)
-plt.savefig('../figures/epa_sewer_connectivity_continuous.pdf', dpi = 300)
+plt.savefig('../figures/figsi_epa_sewer_connectivity_continuous.png', dpi = 300)
+plt.savefig('../figures/figsi_epa_sewer_connectivity_continuous.pdf', dpi = 300)
 
 # Plot discrete sewer connectivity
 
