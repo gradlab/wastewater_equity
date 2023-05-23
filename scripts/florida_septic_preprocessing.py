@@ -5,8 +5,12 @@ import geopandas as gpd
 from shapely.geometry import Point
 import os
 from zipfile import ZipFile
+from urllib import request
 
-# Unzip data (too large to upload to github)
+# Download and unzip data (too large to upload to github)
+
+if not os.path.exists("../data/florida_septic_inspections/septic_jun12.zip"):
+    request.urlretrieve("https://fgdl.org/zips/geospatial_data/archive/septic_jun12.zip", "../data/florida_septic_inspections/septic_jun12.zip")
 
 # Unzip metadata file
 if not os.path.exists("../data/florida_septic_inspections/septic_jun12/"):

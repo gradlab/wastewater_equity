@@ -3,4 +3,4 @@
 .ipynb_checkpoints/*
 */.ipynb_checkpoints/*
 data/ahs/puf*
-data/florida_septic_inspections/septic_jun12
+data/florida_septic_inspections/*
