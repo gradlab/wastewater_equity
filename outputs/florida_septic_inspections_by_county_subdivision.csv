@@ -1,0 +1,317 @@
+,county_subdivision_name,county_subdivision_fips,county_fips,num_septic_tanks,cbsa_fips,cbsa_name,metro_micro,central_outlying_county
+0,Alford,90013,63,872,,,Rural Area,
+1,Allentown,90020,113,456,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+2,Altha,90026,13,155,,,Rural Area,
+3,Apalachicola,90039,37,1306,,,Rural Area,
+4,Apopka,90052,95,3032,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+5,Arcadia East,90065,27,1367,11580.0,"Arcadia, FL",Micropolitan Statistical Area,Central
+6,Arcadia West,90078,27,1504,11580.0,"Arcadia, FL",Micropolitan Statistical Area,Central
+7,Avalon-Mulat,90085,113,846,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+8,Avon Park,90091,55,1879,42700.0,"Sebring, FL",Metropolitan Statistical Area,Central
+9,Bagdad,90097,113,951,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+10,Baker,90104,91,1523,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+11,Baldwin,90110,31,618,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+12,Bartow,90117,105,2801,29460.0,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Central
+13,Bell,90130,41,689,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Outlying
+14,Belle Glade-Pahokee,90143,99,74,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+15,Belleview,90156,83,2043,36100.0,"Ocala, FL",Metropolitan Statistical Area,Central
+16,Berrydale,90162,113,327,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+17,Blountstown,90169,13,296,,,Rural Area,
+18,Boca Ciega,90182,103,51,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+19,Boca Grande,90195,71,3,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+20,Boca Raton,90208,99,573,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+21,Bonifay,90221,59,806,,,Rural Area,
+22,Bonita Springs,90234,71,713,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+23,Bowling Green,90247,49,149,48100.0,"Wauchula, FL",Micropolitan Statistical Area,Central
+24,Boynton Beach-Delray Beach,90260,99,2160,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+25,Bradenton,90273,81,1162,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+26,Brandon,90286,57,4064,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+27,Branford,90299,121,931,,,Rural Area,
+28,Brooker,90312,7,94,,,Rural Area,
+29,Brooksville,90325,53,3303,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Outlying
+30,Bunnell,90338,35,1303,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+31,Bushnell-Center Hill,90344,119,2882,45540.0,"The Villages, FL",Metropolitan Statistical Area,Central
+32,Callahan-Hilliard,90364,89,1971,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+33,Campbellton,90377,63,212,,,Rural Area,
+34,Cantonment,90390,33,5263,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+35,Cape Coral,90403,71,4407,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+36,Cape Sable,90416,87,1,28580.0,"Key West, FL",Micropolitan Statistical Area,Central
+37,Carrabelle,90429,37,349,,,Rural Area,
+38,Caryville,90442,133,465,,,Rural Area,
+39,Casselberry-Altamonte Springs,90455,117,4731,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+40,Cedar Key-Yankeetown,90468,75,757,,,Rural Area,
+41,Central Pasco,90481,101,4118,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+42,Central Volusia,90494,127,1585,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+43,Century,90507,33,907,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+44,Chattahoochee,90520,39,231,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+45,Chiefland,90533,75,1661,,,Rural Area,
+46,Chipley,90546,133,669,,,Rural Area,
+47,Clearwater,90572,103,2103,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+48,Clermont,90585,69,5758,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+49,Clewiston,90598,51,968,17500.0,"Clewiston, FL",Micropolitan Statistical Area,Central
+50,Cocoa Beach-Cape Canaveral,90611,9,9,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+51,Cocoa-Rockledge,90624,9,1305,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+52,Conservation,90637,11,1,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+53,Coral Springs-Margate,90644,11,85,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+54,Cottondale,90650,63,482,,,Rural Area,
+55,Crescent City,90663,107,1438,37260.0,"Palatka, FL",Micropolitan Statistical Area,Central
+56,Crestview,90676,91,6436,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+57,Cross City North,90689,29,145,,,Rural Area,
+58,Cross City South,90702,29,73,,,Rural Area,
+59,Crystal River,90715,17,13167,26140.0,"Homosassa Springs, FL",Metropolitan Statistical Area,Central
+60,Cypress,90728,63,823,,,Rural Area,
+61,Dade City,90741,101,854,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+62,Davie,90754,11,1832,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+63,Day,90767,67,15,,,Rural Area,
+64,Daytona Beach,90780,127,280,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+65,DeBary-Orange City,90793,127,4273,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+66,DeFuniak Springs,90819,131,1516,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+67,DeLand,90832,127,4949,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+68,Deerfield Beach,90806,11,596,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+69,Deltona,90845,127,12529,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+70,Dowling Park,90858,121,1072,,,Rural Area,
+71,Dunnellon,90871,83,376,36100.0,"Ocala, FL",Metropolitan Statistical Area,Central
+72,East Leon,90878,73,2867,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+73,East Liberty,90884,77,57,,,Rural Area,
+74,East Marion,90897,83,419,36100.0,"Ocala, FL",Metropolitan Statistical Area,Central
+75,East Milton,90903,113,1780,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+76,East Orange,90910,95,1871,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+77,East Palatka,90923,107,1001,37260.0,"Palatka, FL",Micropolitan Statistical Area,Central
+78,East Wakulla,90949,129,1616,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+79,Eastpoint,90936,37,323,,,Rural Area,
+80,Eglin AFB,90962,91,52,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+81,Eglin AFB,90964,113,52,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+82,Englewood,90975,115,135,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+83,Estero Island,90988,71,7,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+84,Esto-Noma,91001,59,350,,,Rural Area,
+85,Eustis,91014,69,1396,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+86,Everglades,91040,86,697,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+87,Everglades,91027,21,697,34940.0,"Naples-Immokalee-Marco Island, FL",Metropolitan Statistical Area,Central
+88,Fellowship,91053,83,612,36100.0,"Ocala, FL",Metropolitan Statistical Area,Central
+89,Fellsmere,91066,61,3156,42680.0,"Sebastian-Vero Beach, FL",Metropolitan Statistical Area,Central
+90,Fernandina Beach,91079,89,763,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+91,Flagler Beach,91092,35,823,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+92,Fort Lauderdale,91098,11,2273,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+93,Fort McCoy-Anthony,91105,83,379,36100.0,"Ocala, FL",Metropolitan Statistical Area,Central
+94,Fort Myers,91131,71,456,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+95,Fort Myers Shores,91144,71,189,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+96,Fort Pierce,91157,111,1058,38940.0,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+97,Fort Walton Beach,91170,91,331,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+98,Fort White,91183,23,486,29380.0,"Lake City, FL",Micropolitan Statistical Area,Central
+99,Freeport,91196,131,1245,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+100,Frostproof,91209,105,682,29460.0,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Central
+101,Fruit Cove,91222,109,1044,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+102,Fruitland Park-Lady Lake,91235,69,1975,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+103,Gainesville,91248,1,3040,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Central
+104,Glades,91274,99,7,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+105,Graceville,91287,63,313,,,Rural Area,
+106,Green Cove Springs,91300,19,1221,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+107,Greensboro,91313,39,344,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+108,Greenville,91326,79,117,,,Rural Area,
+109,Greenwood,91339,63,668,,,Rural Area,
+110,Grove City-Rotonda,91352,15,694,39460.0,"Punta Gorda, FL",Metropolitan Statistical Area,Central
+111,Groveland-Mascotte,91365,69,2662,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+112,Gulf Breeze,91376,113,650,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+113,Gulf Gate Estates-Osprey,91393,115,303,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+114,Haines City,91404,105,3978,29460.0,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Central
+115,Hallandale Beach,91417,11,119,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+116,Hampton,91430,7,461,,,Rural Area,
+117,Harold,91436,113,201,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+118,Hastings,91443,109,2040,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+119,Havana,91456,39,2190,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+120,Hawthorne,91469,1,616,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Central
+121,Hernando Beach,91475,53,571,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Outlying
+122,Hialeah,91482,86,367,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+123,High Springs-Alachua,91495,1,2795,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Central
+124,Holley-Navarre,91500,113,4899,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+125,Hollywood,91508,11,4794,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+126,Homestead,91534,86,1221,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+127,Howey-in-the-Hills-Okahumpka,91541,69,668,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+128,Hutchinson Island,91547,111,11,38940.0,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+129,Immokalee,91560,21,3502,34940.0,"Naples-Immokalee-Marco Island, FL",Metropolitan Statistical Area,Central
+130,Indialantic-Melbourne Beach,91573,9,70,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+131,Indiantown,91586,85,1176,38940.0,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+132,Interior County,91599,115,140,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+133,Interlachen-Florahome,91612,107,3183,37260.0,"Palatka, FL",Micropolitan Statistical Area,Central
+134,Inverness,91625,17,11018,26140.0,"Homosassa Springs, FL",Metropolitan Statistical Area,Central
+135,Jacksonville Beaches,91640,31,399,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+136,Jacksonville East,91642,31,10506,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+137,Jacksonville North,91644,31,4619,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+138,Jacksonville West,91646,31,10163,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+139,Jasper,91651,47,305,,,Rural Area,
+140,Jay,91664,113,406,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+141,Jennings,91677,47,643,,,Rural Area,
+142,Jupiter,91690,99,692,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+143,Kendale Lakes-Tamiami,91705,86,976,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+144,Kendall-Palmetto Bay,91714,86,5848,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+145,Key Biscayne,91729,86,382,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+146,Key West,91755,87,1093,28580.0,"Key West, FL",Micropolitan Statistical Area,Central
+147,Keystone Heights,91742,19,3812,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+148,Keystone-Citrus Park,91735,57,2057,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+149,Kissimmee,91768,97,2397,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+150,LaBelle,91781,51,1779,17500.0,"Clewiston, FL",Micropolitan Statistical Area,Central
+151,Lacoochee,91794,101,726,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+152,Lake Butler,91807,125,101,,,Rural Area,
+153,Lake City,91820,23,1800,29380.0,"Lake City, FL",Micropolitan Statistical Area,Central
+154,Lake Placid,91846,55,4340,42700.0,"Sebring, FL",Metropolitan Statistical Area,Central
+155,Lake Wales,91859,105,2911,29460.0,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Central
+156,Lake Worth,91872,99,4635,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+157,Lakeland,91833,105,16839,29460.0,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Central
+158,Laurel Hill,91885,91,329,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+159,Lawtey,91898,7,463,,,Rural Area,
+160,Leesburg,91911,69,547,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+161,Leesburg East,91924,69,1450,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+162,Lehigh Acres,91937,71,4576,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+163,Live Oak,91950,121,1551,,,Rural Area,
+164,Longboat Key,91963,115,3,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+165,Lower Keys,91976,87,1124,28580.0,"Key West, FL",Micropolitan Statistical Area,Central
+166,Lynn Haven,91989,5,1572,37460.0,"Panama City, FL",Metropolitan Statistical Area,Central
+167,Macclenny,92009,3,355,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+168,Madison,92015,79,555,,,Rural Area,
+169,Malabar,92028,9,416,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+170,Malone,92041,63,362,,,Rural Area,
+171,Marco Island,92048,21,2733,34940.0,"Naples-Immokalee-Marco Island, FL",Metropolitan Statistical Area,Central
+172,Marianna,92067,63,1293,,,Rural Area,
+173,Matanzas,92080,109,1122,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+174,Mayo,92093,67,133,,,Rural Area,
+175,McAlpin-Wellborn,92002,121,1203,,,Rural Area,
+176,Melbourne,92106,9,560,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+177,Melbourne Shores-Floridana Beach,92119,9,211,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+178,Merritt Island,92132,9,608,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+179,Mexico Beach,92145,5,26,37460.0,"Panama City, FL",Metropolitan Statistical Area,Central
+180,Miami,92158,86,16325,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+181,Miami Beach,92171,86,141,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+182,Miami Gardens,92175,86,585,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+183,Micanopy,92184,1,355,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Central
+184,Middle Keys,92210,87,1246,28580.0,"Key West, FL",Micropolitan Statistical Area,Central
+185,Middleburg-Clay Hill,92197,19,5278,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+186,Midway,92218,113,2496,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+187,Milton,92223,113,276,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+188,Miramar-Pembroke Pines,92236,11,888,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+189,Monticello,92249,65,857,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+190,Mount Dora,92262,69,1656,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+191,Munson,92276,113,273,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+192,Myakka City,92290,81,2169,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+193,Naples,92301,21,7518,34940.0,"Naples-Immokalee-Marco Island, FL",Metropolitan Statistical Area,Central
+194,Navarre Beach,92309,113,1,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+195,New Port Richey,92327,101,5340,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+196,New Smyrna Beach,92340,127,2523,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+197,Newberry-Archer,92314,1,2922,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Central
+198,Niceville-Valparaiso,92353,91,673,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+199,North Columbia,92366,23,20,29380.0,"Lake City, FL",Micropolitan Statistical Area,Central
+200,North Fort Myers,92392,71,598,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+201,North Okeechobee,92405,93,1103,36380.0,"Okeechobee, FL",Micropolitan Statistical Area,Central
+202,North Peninsula,92418,127,1570,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+203,North Port,92431,115,1860,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+204,North Westside,92470,86,569,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+205,Northeast Glades,92379,43,401,,,Rural Area,
+206,Northeast Leon,92384,73,2702,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+207,Northwest Escambia,92457,33,709,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+208,Northwest Leon,92463,73,1693,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+209,Ocala,92483,83,1930,36100.0,"Ocala, FL",Metropolitan Statistical Area,Central
+210,Okeechobee,92496,93,2798,36380.0,"Okeechobee, FL",Micropolitan Statistical Area,Central
+211,Orange Park,92509,19,1543,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+212,Orlando,92522,95,12707,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+213,Ormond Beach,92535,127,1431,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+214,Oviedo,92548,117,3268,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+215,Pace,92561,113,2975,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+216,Palatka,92574,107,1651,37260.0,"Palatka, FL",Micropolitan Statistical Area,Central
+217,Palm Bay,92587,9,3137,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+218,Palm River-Gibsonton,92614,57,1007,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+219,Palmetto,92600,81,429,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+220,Panama City,92626,5,2035,37460.0,"Panama City, FL",Metropolitan Statistical Area,Central
+221,Panama City Beaches,92639,5,2610,37460.0,"Panama City, FL",Metropolitan Statistical Area,Central
+222,Parrish,92652,81,1329,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+223,Paxton-Darlington,92665,131,1292,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+224,Penney Farms,92678,19,1195,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Central
+225,Pensacola,92691,33,16189,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+226,Perry North,92704,123,1383,,,Rural Area,
+227,Perry South,92717,123,907,,,Rural Area,
+228,Pierson-Seville,92730,127,842,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+229,Pine Island,92743,71,321,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+230,Plant City,92769,57,4521,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+231,Plantation,92756,11,1331,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+232,Pompano Beach,92782,11,304,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+233,Ponte Vedra,92795,109,1020,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+234,Port Charlotte,92834,15,2624,39460.0,"Punta Gorda, FL",Metropolitan Statistical Area,Central
+235,Port Orange,92847,127,1802,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+236,Port Richey,92860,101,6623,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+237,Port Salerno-Hobe Sound,92873,85,3043,38940.0,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+238,Port St. Joe,92863,45,1585,37460.0,"Panama City, FL",Metropolitan Statistical Area,Outlying
+239,Port St. Lucie,92866,111,396,38940.0,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+240,Princeton-Goulds,92886,86,1146,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+241,Punta Gorda,92899,15,956,39460.0,"Punta Gorda, FL",Metropolitan Statistical Area,Central
+242,Quincy,92912,39,1831,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+243,Raiford,92925,125,15,,,Rural Area,
+244,Redbay,92938,131,395,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+245,Reddick-McIntosh,92951,83,418,36100.0,"Ocala, FL",Metropolitan Statistical Area,Central
+246,Ridge Manor,92964,53,766,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Outlying
+247,Riviera Beach,92977,99,1323,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+248,Royal Palm Beach-West Jupiter,92990,99,4024,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+249,Ruskin,93003,57,781,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+250,Sanderson,93068,3,458,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+251,Sanford,93081,117,3336,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+252,Sanibel Island,93094,71,118,15980.0,"Cape Coral-Fort Myers, FL",Metropolitan Statistical Area,Central
+253,Sarasota,93107,115,5253,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+254,Sebring,93120,55,4094,42700.0,"Sebring, FL",Metropolitan Statistical Area,Central
+255,Skyline,93127,113,2336,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+256,Sneads,93133,63,450,,,Rural Area,
+257,South Peninsula,93159,127,1353,19660.0,"Deltona-Daytona Beach-Ormond Beach, FL",Metropolitan Statistical Area,Central
+258,South Westside,93211,86,1175,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+259,South and East Osceola,93146,97,1091,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+260,Southeast Leon,93152,73,1776,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+261,Southport,93172,5,1423,37460.0,"Panama City, FL",Metropolitan Statistical Area,Central
+262,Southwest Glades,93185,43,776,,,Rural Area,
+263,Southwest Leon,93190,73,1667,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+264,Southwest Orange,93198,95,5164,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+265,Space Center,93224,9,2,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+266,Spring Hill,93230,53,14454,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Outlying
+267,St. Augustine,93016,109,8005,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+268,St. Cloud,93029,97,4119,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+269,St. Pete Beach,93036,103,2,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+270,St. Petersburg,93042,103,140,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+271,Starke,93237,7,628,,,Rural Area,
+272,Stuart,93250,85,4140,38940.0,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+273,Sunshine Parkway,93276,99,1949,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+274,Tallahassee Central,93295,73,76,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+275,Tallahassee East,93302,73,76,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+276,Tallahassee Northeast,93315,73,106,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+277,Tallahassee Northwest,93328,73,78,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+278,Tallahassee South,93335,73,583,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+279,Tallahassee Southwest,93354,73,194,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Central
+280,Tampa,93367,57,7338,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+281,Tarpon Springs,93380,103,1068,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+282,Tavares,93393,69,808,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+283,Titusville,93419,9,684,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+284,Trenton,93432,41,1020,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Outlying
+285,Umatilla,93445,69,2489,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Outlying
+286,Union Park,93458,95,2337,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+287,Upper Keys,93471,87,5131,28580.0,"Key West, FL",Micropolitan Statistical Area,Central
+288,Venice,93484,115,1149,35840.0,"North Port-Sarasota-Bradenton, FL",Metropolitan Statistical Area,Central
+289,Vernon,93497,133,1770,,,Rural Area,
+290,Vero Beach,93510,61,12412,42680.0,"Sebastian-Vero Beach, FL",Metropolitan Statistical Area,Central
+291,Wacissa,93523,65,457,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+292,Waldo,93536,1,820,23540.0,"Gainesville, FL",Metropolitan Statistical Area,Central
+293,Walton Beaches,93542,131,1089,18880.0,"Crestview-Fort Walton Beach-Destin, FL",Metropolitan Statistical Area,Central
+294,Wauchula,93549,49,499,48100.0,"Wauchula, FL",Micropolitan Statistical Area,Central
+295,West Brevard,93588,9,146,37340.0,"Palm Bay-Melbourne-Titusville, FL",Metropolitan Statistical Area,Central
+296,West Calhoun,93592,13,296,,,Rural Area,
+297,West Holmes,93596,59,556,,,Rural Area,
+298,West Liberty,93601,77,159,,,Rural Area,
+299,West Palm Beach,93614,99,1437,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+300,West St. Lucie,93620,111,140,38940.0,"Port St. Lucie, FL",Metropolitan Statistical Area,Central
+301,West Wakulla,93627,129,323,45220.0,"Tallahassee, FL",Metropolitan Statistical Area,Outlying
+302,Western Community,93594,99,3521,33100.0,"Miami-Fort Lauderdale-West Palm Beach, FL",Metropolitan Statistical Area,Central
+303,Wewahitchka,93640,45,770,37460.0,"Panama City, FL",Metropolitan Statistical Area,Outlying
+304,White Springs,93653,47,166,,,Rural Area,
+305,Whiting Field,93659,113,12,37860.0,"Pensacola-Ferry Pass-Brent, FL",Metropolitan Statistical Area,Central
+306,Wildwood,93666,119,1356,45540.0,"The Villages, FL",Metropolitan Statistical Area,Central
+307,Williston-Bronson,93679,75,3108,,,Rural Area,
+308,Wimauma-Riverview,93693,57,3244,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+309,Winter Garden-Ocoee,93705,95,2998,36740.0,"Orlando-Kissimmee-Sanford, FL",Metropolitan Statistical Area,Central
+310,Winter Haven-Auburndale,93718,105,4994,29460.0,"Lakeland-Winter Haven, FL",Metropolitan Statistical Area,Central
+311,Worthington Springs,93731,125,152,,,Rural Area,
+312,Youngstown,93744,5,1210,37460.0,"Panama City, FL",Metropolitan Statistical Area,Central
+313,Yulee,93757,89,2264,27260.0,"Jacksonville, FL",Metropolitan Statistical Area,Outlying
+314,Zephyrhills,93770,101,3123,45300.0,"Tampa-St. Petersburg-Clearwater, FL",Metropolitan Statistical Area,Central
+315,Zolfo Springs,93783,49,648,48100.0,"Wauchula, FL",Micropolitan Statistical Area,Central
