@@ -9,15 +9,17 @@ from urllib import request
 
 # Download and unzip shapefile of all US counties (too large to upload to github)
 
-if not os.path.exists('../data/geography_files/tl_2012_us_county.zip'):
+if not os.path.exists('../data/geography_files/tl_2012_us_county/'):
     request.urlretrieve('https://www2.census.gov/geo/tiger/TIGER2012/COUNTY/tl_2012_us_county.zip', '../data/geography_files/tl_2012_us_county.zip')
 
-# Unzip metadata file
-if not os.path.exists('../data/geography_files/tl_2012_us_county/'):
-    os.mkdir('../data/geography_files/tl_2012_us_county/')
-    with ZipFile('../data/geography_files/tl_2012_us_county.zip', 'r') as zip_ref:
-        zip_ref.extractall('../data/geography_files/tl_2012_us_county/')
-        
+    # Unzip metadata file
+    if not os.path.exists('../data/geography_files/tl_2012_us_county/'):
+        os.mkdir('../data/geography_files/tl_2012_us_county/')
+        with ZipFile('../data/geography_files/tl_2012_us_county.zip', 'r') as zip_ref:
+            zip_ref.extractall('../data/geography_files/tl_2012_us_county/')
+    # Delete zip file
+    os.remove('../data/geography_files/tl_2012_us_county.zip')
+    
 # Filter by the facility type currently existing at a CWNS facility. 
 
 # Focusing on facility types: 'Collection: Combined Sewers' and 'Collection: Separate Sewers'. Should also check what would happen if I included 'Colleciton: Interceptor Sewer', 'Collection: Pump Stations', and 'Treatment Lagoon or Pond'.
