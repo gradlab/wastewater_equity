@@ -26,8 +26,8 @@ Shapefiles and geography conversion files from the US Census used for mapping.
 Data files from the [US Census Island Areas Decennial Survey](https://www.census.gov/programs-surveys/decennial-census/decade/2020/planning-management/release/2020-island-areas-data-products.html), downloaded from the [US Census Data website](https://data.census.gov/)
 ### minnesota/
 Data files from the [Minnesota Wastewater Infrastructure Needs Survey](https://www.pca.state.mn.us/sites/default/files/wq-wwtp3-06.pdf), provided by the Minnesota Pollution Control Agency. Data files from the Minnesota Subsurface Sewage Treatment Systems Survey, taken from the [2017 SSTS Annual Report on Subsurface Sewage Treatment Systems in Minnesota](https://www.pca.state.mn.us/sites/default/files/wq-wwists1-58.pdf).
-### utah/
-Data from the [Utah Municipal Wastewater Planning Survey](https://deq.utah.gov/water-quality/municipal-wastewater-planning-program-mwpp) was provided by the Utah Department of Environment Quality, Division of Water Quality and was not included in this repository. The latest version of the data can be requested from hcampbell[at]utah[dot]gov.
+
+*Note that Data from the [Utah Municipal Wastewater Planning Survey](https://deq.utah.gov/water-quality/municipal-wastewater-planning-program-mwpp) was provided by the Utah Department of Environment Quality, Division of Water Quality and was not included in this repository. The latest version of the data can be requested from hcampbell[at]utah[dot]gov.
 
 ## outputs/
 Outputs from the scripts, including tables in the manuscript
