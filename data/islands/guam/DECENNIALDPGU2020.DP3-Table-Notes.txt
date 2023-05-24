@@ -1,0 +1,27 @@
+=============================================================================================================
+  TABLE INFO
+=============================================================================================================
+
+ID: DECENNIALDPGU2020.DP3
+Title: SELECTED ECONOMIC CHARACTERISTICS
+
+=============================================================================================================
+  NOTES
+=============================================================================================================
+
+[1] Occupation codes are 4-digit codes and are based on the 2018 Standard Occupational Classification (SOC).<br/><br/>
+
+[3] "Families" consist of a householder and one or more other people related to the householder by birth, marriage, or adoption.<br/><br/>
+
+[2] Industry codes are 4-digit codes and are based on the 2017 North American Industry Classification System (NAICS).<br/><br/>
+
+Explanation of Symbols: <TABLE><TR><TD width="20px">1.</TD><TD>An "-" means the statistic could not be computed because there were an insufficient number of observations.</TD> </TR><TR></TD><TD width="20px">2.</TD><TD> An "-" following a median estimate means the median falls in the lowest interval of an open-ended distribution.</TD></TR><TR></TD><TD width="20px">3.</TD><TD> An "+" following a median estimate means the median falls in the upper interval of an open-ended distribution.</TD></TR><TR></TD><TD width="20px">4.</TD><TD> An "N" means data are not displayed for the selected geographic area due to concerns with statistical reliability.</TD></TR><TR><TD width="20px">5.</TD><TD> An "(X)" means not applicable.</TD></TR></TABLE><br/><br/>
+
+Note: For information on data collection, confidentiality protection, nonsampling error, and definitions, see the <a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/island-areas-censuses.html">2020 Island Areas Censuses Technical Documentation</a>.<br/><br/>
+
+Due to COVID-19 restrictions impacting data collection for the 2020 Census of Guam, data users should consider the following when using Guam's data products: <TABLE><TR><TD></TD><TD> 1) Data tables reporting social and economic characteristics do not include the group quarters population in the table universe. As a result, impacted 2020 data tables should not be compared to 2010 and other past census data tables reporting the same characteristics. The Census Bureau advises data users to verify table universes are the same before comparing data across census years. For more information about data collection limitations and the impacts on Guam's data products, see the <a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/island-areas-censuses.html">2020 Island Areas Censuses Technical Documentation</a>. <br><br> </TD></TR><TR><TD></TD><TD> 2) Cells in data tables will display the letter "N" when those data are not statistically reliable. A list of the geographic areas and data tables that will not have data displayed due to data quality concerns can be found in the <a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/island-areas-censuses.html">2020 Island Areas Censuses Technical Documentation</a>.</a> <br><br> </TD></TR><TR><TD></TD><TD> 3) The Census Bureau advises that data users consider high allocation rates while using the 2020 Census of Guam's available characteristics data. Allocation rates -- a measure of item nonresponse -- are higher than past censuses. Final counts can be adversely impacted when an item's allocation rate is high, and bias can be introduced if the characteristics of the nonrespondents differ from those reported by respondents. Allocation rates for Guam's key population and housing characteristics can be found in the <a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/island-areas-censuses.html">2020 Island Areas Censuses Technical Documentation</a>. </TD></TR></TABLE><br/><br/>
+
+Due to operational changes for military installation enumeration, the 2020 Census of Guam data tables reporting housing, social, and economic characteristics do not include housing units or populations living on Guam's U.S. military installations in the table universe. As a result, impacted 2020 data tables should not be compared to 2010 and other past census data tables reporting the same characteristics. The Census Bureau advises data users to verify table universes are the same before comparing data across census years. For more information about operational changes and the impacts on Guam's data products, see the <a href="https://www.census.gov/programs-surveys/decennial-census/technical-documentation/island-areas-censuses.html">2020 Island Areas Censuses Technical Documentation</a>.<br/><br/>
+
+Source: U.S. Census Bureau, 2020 Census, Guam.<br/><br/>
+
