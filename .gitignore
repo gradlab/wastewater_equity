@@ -8,4 +8,8 @@ data/florida_septic_inspections/*
 data/geography_files/tl_2012_us_county/
 data/geography_files/tl_2017_us_county/
 data/geography_files/tl_2021_us_county/
+data/utah/
+
+outputs/utah_sewer_connectivity.csv
+
 scripts/__pycache__/*
