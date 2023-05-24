@@ -1,0 +1,243 @@
+,variable,state,metro_micro,pearsonr,pvalue,qvalue
+0,Percent one race and white,MN,Metropolitan Statistical Area,-0.7439815502782218,8.660601408355567e-06,0.0007621329239352899
+1,Percent one race and black or african american,MN,Metropolitan Statistical Area,0.7345566905071388,1.2860639769440616e-05,0.0011317362997107742
+2,Percent one race and asian,MN,Metropolitan Statistical Area,0.7169060740131515,2.585165381849704e-05,0.0022749455360277396
+3,Percent one race and white,MI,Metropolitan Statistical Area,-0.7075691851443986,5.284044317644778e-05,0.0046499589995274045
+4,Median income,FL,Micropolitan Statistical Area,0.9797188324723687,0.00011128874597509613,0.00979340964580846
+5,Percent one race and black or african american,MI,Metropolitan Statistical Area,0.6743921145249603,0.00015804630424399294,0.013908074773471378
+6,Percent hispanic,FL,Metropolitan Statistical Area,0.5307786653607679,0.00021015089418782902,0.018493278688528954
+7,Percent one race and asian,FL,Metropolitan Statistical Area,0.5156659937914381,0.00034044686144543435,0.029959323807198224
+8,Percent one race and white,IA,Metropolitan Statistical Area,-0.6880652534011626,0.0005653165254118572,0.049747854236243436
+9,Average household size,MI,Rural Area,-0.5610963165404863,0.0008353003040565125,0.0735064267569731
+10,Average household size,IA,Micropolitan Statistical Area,-0.7226726155505897,0.0010485978883628087,0.09227661417592717
+11,Percent one race and black or african american,NY,Metropolitan Statistical Area,0.5003586882232824,0.0013786259901794385,0.1213190871357906
+12,Percent one race and asian,NY,Metropolitan Statistical Area,0.4971463124248953,0.001496734062433253,0.13171259749412625
+13,Percent one race and black or african american,IA,Metropolitan Statistical Area,0.6340934341689767,0.0020227428715788227,0.1780013726989364
+14,Average household size,FL,Rural Area,-0.710392405989352,0.0020427935886042905,0.17976583579717756
+15,Average household size,MI,Metropolitan Statistical Area,-0.5535785269871493,0.00334895255755519,0.2947078250648567
+16,Percent one race and american indian and alaska native,CA,Rural Area,-0.7402308297695408,0.003811017259759707,0.33536951885885424
+17,Percent one race and asian,NY,Micropolitan Statistical Area,-0.699069465868424,0.005401195166343456,0.4753051746382241
+18,Percent one race and white,NY,Metropolitan Statistical Area,-0.43694428343086233,0.006089695055441944,0.535893164878891
+19,Percent one race and some other race,NJ,Metropolitan Statistical Area,0.5683116703490622,0.007189902494977619,0.6327114195580306
+20,Percent uninsured,FL,Metropolitan Statistical Area,0.39710881532312214,0.007607126488588184,0.6694271309957602
+21,Median age,MN,Metropolitan Statistical Area,-0.49476689334347373,0.008699730012983332,0.7655762411425333
+22,Percent one race and white,NJ,Metropolitan Statistical Area,-0.5401152539610727,0.011487327177187553,1.0108847915925048
+23,Median age,IA,Micropolitan Statistical Area,0.5942415136624127,0.011885996102495364,1.045967657019592
+24,Percent one race and asian,CA,Metropolitan Statistical Area,0.3902690491156734,0.01694055599213971,1.4907689273082945
+25,Percent uninsured,NJ,Metropolitan Statistical Area,0.5116310464507193,0.017751290764568717,1.562113587282047
+26,Percent one race and some other race,NY,Rural Area,0.7230061221650834,0.018143046556150635,1.596588096941256
+27,Percent uninsured,MI,Micropolitan Statistical Area,-0.4680672681975658,0.018291916088930507,1.6096886158258847
+28,Percent one race and american indian and alaska native,CA,Metropolitan Statistical Area,-0.3850074537330729,0.018620397374214247,1.6385949689308537
+29,Percent hispanic,NJ,Metropolitan Statistical Area,0.5056359795745882,0.01936702970421555,1.7042986139709686
+30,Percent one race and native hawaiian and other pacific islander,CA,Rural Area,-0.6363296969333567,0.01937533047607301,1.705029081894425
+31,Percent one race and asian,MI,Metropolitan Statistical Area,0.45155564533541126,0.020578218280380343,1.81088320867347
+32,Percent one race and white,CA,Metropolitan Statistical Area,-0.3758749423349619,0.02186653643780062,1.9242552065264547
+33,Percent hispanic,IA,Metropolitan Statistical Area,0.4935854276803707,0.02297103210688053,2.021450825405487
+34,Percent one race and black or african american,MN,Micropolitan Statistical Area,0.5439864959753616,0.02398567535072513,2.1107394308638114
+35,Median income,NY,Micropolitan Statistical Area,-0.5959184682761312,0.024517648310815852,2.157553051351795
+36,Percent one race and some other race,MD,Rural Area,-0.9988503163343794,0.030529937733767287,2.686634520571521
+37,Percent one race and native hawaiian and other pacific islander,IA,Micropolitan Statistical Area,0.5240067284834253,0.030843328863055287,2.7142129399488653
+38,Percent one race and asian,MI,Rural Area,0.37916679553372973,0.032338687354967616,2.8458044872371504
+39,Percent one race and white,NY,Rural Area,-0.6746464066057354,0.032357340176489724,2.8474459355310957
+40,Median income,CA,Metropolitan Statistical Area,0.35233658840641574,0.03245699446967656,2.856215513331537
+41,Percent one race and asian,IA,Metropolitan Statistical Area,0.4631644451592032,0.03447283175152919,3.0336091941345686
+42,Percent one race and native hawaiian and other pacific islander,CA,Metropolitan Statistical Area,0.3403697486474039,0.03927175762913773,3.4559146713641207
+43,Percent one race and black or african american,NY,Rural Area,0.6414487426906916,0.045606153203466296,4.013341481905034
+44,Percent uninsured,IA,Micropolitan Statistical Area,-0.48894963397189783,0.04639809347420805,4.083032225730308
+45,Percent one race and native hawaiian and other pacific islander,MI,Micropolitan Statistical Area,-0.4004032141095519,0.047323839439861355,4.164497870707799
+46,Percent one race and some other race,FL,Metropolitan Statistical Area,0.294944497393552,0.05194398189793781,4.571070407018527
+47,Percent one race and asian,NY,Rural Area,0.627609892551053,0.05206035992935468,4.581311673783212
+48,Median age,NJ,Metropolitan Statistical Area,-0.4167761639172472,0.06017317129306508,5.295239073789727
+49,Median age,MI,Metropolitan Statistical Area,-0.3705292125931333,0.06241029689258737,5.4921061265476885
+50,Median age,FL,Metropolitan Statistical Area,-0.2764233003532445,0.06931333609630516,6.099573576474854
+51,Median age,MI,Micropolitan Statistical Area,-0.3671427049638394,0.07101546286736103,6.249360732327771
+52,Percent one race and black or african american,CA,Metropolitan Statistical Area,0.29607993593094234,0.07518975429336089,6.616698377815759
+53,Percent one race and some other race,MN,Metropolitan Statistical Area,0.3432165052623485,0.07965293384014348,7.009458177932626
+54,Percent one race and black or african american,NJ,Metropolitan Statistical Area,0.390389254281404,0.08018026304739419,7.055863148170689
+55,Percent hispanic,NY,Rural Area,0.5741575595303434,0.0826027833238204,7.269044932496195
+56,Percent one race and some other race,IA,Metropolitan Statistical Area,0.3858117748568903,0.08410312129605699,7.401074674053015
+57,Median age,IA,Metropolitan Statistical Area,-0.3804141542908664,0.08890998770512654,7.824078918051136
+58,Median income,FL,Metropolitan Statistical Area,0.2592061330183746,0.08930847000636777,7.859145360560364
+59,Percent one race and black or african american,CA,Rural Area,0.48823223874840427,0.09050334862222868,7.964294678756124
+60,Percent hispanic,MN,Metropolitan Statistical Area,0.3320754670703858,0.09059385376340515,7.972259131179653
+61,Median income,MN,Metropolitan Statistical Area,0.32901834375471234,0.0937855169682248,8.253125493203783
+62,Median age,MN,Rural Area,0.257217234723991,0.09588618846808199,8.437984585191215
+63,Percent one race and asian,CA,Rural Area,-0.4795793842810832,0.09724189099432617,8.557286407500703
+64,Percent one race and some other race,MN,Micropolitan Statistical Area,0.4149843863278691,0.09764558729418611,8.592811681888378
+65,Average household size,FL,Metropolitan Statistical Area,0.25148738054343567,0.09961135638365415,8.765799361761566
+66,Percent one race and white,FL,Metropolitan Statistical Area,-0.2507290550817902,0.10067089070335303,8.859038381895067
+67,Percent one race and native hawaiian and other pacific islander,MN,Rural Area,-0.24966628455231737,0.10639430913266534,9.36269920367455
+68,Percent hispanic,CA,Micropolitan Statistical Area,-0.6059191875682182,0.11134449479024598,9.798315541541646
+69,Percent one race and asian,FL,Micropolitan Statistical Area,0.653097320095777,0.11171104100404539,9.830571608355994
+70,Percent one race and american indian and alaska native,FL,Metropolitan Statistical Area,-0.24286605617355186,0.11217336103108495,9.871255770735475
+71,Percent one race and american indian and alaska native,NY,Rural Area,0.5203256698267625,0.12311445605221781,10.834072132595168
+72,Percent one race and some other race,FL,Rural Area,-0.4009582443028761,0.12376591947146907,10.891400913489278
+73,Percent one race and native hawaiian and other pacific islander,MI,Metropolitan Statistical Area,-0.30761995506597223,0.12632350651844296,11.11646857362298
+74,Average household size,NJ,Metropolitan Statistical Area,0.34319593896065226,0.12773015631847148,11.24025375602549
+75,Percent one race and black or african american,FL,Micropolitan Statistical Area,-0.620763306216803,0.1368593306501869,12.043621097216448
+76,Percent one race and asian,MN,Micropolitan Statistical Area,0.37239596225066673,0.14101191694560142,12.409048691212925
+77,Median income,IA,Metropolitan Statistical Area,-0.33063045197404023,0.14322047699883209,12.603401975897224
+78,Average household size,MD,Metropolitan Statistical Area,-0.3471732572216297,0.14530737529555499,12.78704902600884
+79,Percent hispanic,CA,Rural Area,0.4272431901337773,0.14535437887722533,12.79118534119583
+80,Percent one race and white,FL,Micropolitan Statistical Area,0.5983566221864781,0.15580897127344856,13.711189472063474
+81,Median age,NY,Metropolitan Statistical Area,-0.2327173276737253,0.15971401627846712,14.054833432505108
+82,Percent one race and black or african american,MI,Micropolitan Statistical Area,0.28996739097978896,0.1597146349621359,14.054887876667959
+83,Percent one race and american indian and alaska native,FL,Rural Area,-0.36715147414309884,0.16184122614655494,14.242027900896835
+84,Median income,MI,Metropolitan Statistical Area,-0.28208850523153495,0.1626608281760688,14.314152879494054
+85,Average household size,MD,Rural Area,-0.966281933733198,0.16578848486681771,14.589386668279959
+86,Median age,FL,Micropolitan Statistical Area,0.5841761240062645,0.1684361830149021,14.822384105311384
+87,Percent one race and native hawaiian and other pacific islander,MN,Metropolitan Statistical Area,0.2666994181508522,0.17870819251060957,15.726320940933642
+88,Percent one race and white,MI,Rural Area,-0.24353124399883538,0.1792280747322367,15.77207057643683
+89,Average household size,MN,Rural Area,-0.20546360591536078,0.1862458724845884,16.38963677864378
+90,Percent uninsured,IA,Metropolitan Statistical Area,0.29944108551357734,0.18727338560904852,16.48005793359627
+91,Median age,NY,Rural Area,-0.45197324492892027,0.18972727117144428,16.695999863087096
+92,Percent one race and black or african american,MI,Rural Area,0.23609304532911043,0.19329641419931406,17.010084449539637
+93,Percent one race and asian,MI,Micropolitan Statistical Area,0.2684354427988138,0.19448337393379822,17.114536906174244
+94,Average household size,CA,Metropolitan Statistical Area,-0.21709566750127415,0.19681659121553124,17.31986002696675
+95,Percent hispanic,FL,Rural Area,-0.3400520355842485,0.19750606475628243,17.380533698552853
+96,Percent hispanic,NY,Micropolitan Statistical Area,0.36557156620664316,0.19866376845025197,17.482411623622173
+97,Percent uninsured,CA,Metropolitan Statistical Area,-0.2102871578210139,0.2115739926760347,18.61851135549105
+98,Percent hispanic,MN,Micropolitan Statistical Area,0.3164793270774207,0.2158631326201149,18.995955670570112
+99,Percent one race and some other race,CA,Rural Area,0.36510552150338105,0.21994606708976294,19.35525390389914
+100,Percent one race and some other race,NY,Micropolitan Statistical Area,0.3495684931497136,0.22052355974197474,19.406073257293777
+101,Percent hispanic,MD,Metropolitan Statistical Area,-0.29376851033910895,0.22218632271158256,19.552396398619265
+102,Percent one race and native hawaiian and other pacific islander,MI,Rural Area,0.22182977029020104,0.22238684917523754,19.570042727420905
+103,Percent one race and native hawaiian and other pacific islander,MD,Metropolitan Statistical Area,0.2935736333695699,0.2225075211897323,19.58066186469644
+104,Median income,MD,Rural Area,-0.9375183416994424,0.22623460700916648,19.90864541680665
+105,Average household size,CA,Micropolitan Statistical Area,-0.47835998693650533,0.23050986369871296,20.28486800548674
+106,Percent hispanic,CA,Metropolitan Statistical Area,-0.20107732866648434,0.23272793185071824,20.480058002863206
+107,Percent one race and black or african american,FL,Rural Area,0.31320878765450816,0.23751390563385133,20.901223695778917
+108,Percent one race and american indian and alaska native,IA,Metropolitan Statistical Area,0.2671099224855624,0.24179232760875022,21.27772482957002
+109,Median income,NJ,Metropolitan Statistical Area,-0.2670718933858069,0.24186191221097147,21.28384827456549
+110,Percent hispanic,NY,Metropolitan Statistical Area,0.19433682984064551,0.2423465672173949,21.32649791513075
+111,Percent one race and american indian and alaska native,MI,Rural Area,0.2114521453598349,0.24533366143860336,21.589362206597094
+112,Average household size,MI,Micropolitan Statistical Area,0.23428555173828255,0.2596441605695692,22.84868613012209
+113,Median age,CA,Metropolitan Statistical Area,0.18878362378928287,0.2631354258106045,23.155917471333197
+114,Percent uninsured,FL,Rural Area,-0.2970697790836889,0.26384455798517265,23.218321102695192
+115,Percent one race and native hawaiian and other pacific islander,CA,Micropolitan Statistical Area,0.4472746217133846,0.2664964769206077,23.451689969013476
+116,Percent one race and some other race,MD,Metropolitan Statistical Area,-0.2681082373768351,0.267089023592922,23.50383407617714
+117,Percent one race and asian,NJ,Metropolitan Statistical Area,0.25158605078759566,0.2712753008913027,23.872226478434637
+118,Median income,IA,Rural Area,-0.14226831779037868,0.27406963646041105,24.118128008516173
+119,Percent hispanic,MI,Micropolitan Statistical Area,0.22426472031761005,0.281159574892302,24.742042590522573
+120,Average household size,MN,Micropolitan Statistical Area,0.2699026266091258,0.29478754658372913,25.941304099368164
+121,Percent one race and white,MI,Micropolitan Statistical Area,-0.21429670292759906,0.3036489554319007,26.72110807800726
+122,Percent one race and black or african american,MN,Rural Area,-0.15844811561116068,0.3101887726606032,27.29661199413308
+123,Percent one race and some other race,MI,Rural Area,-0.18075817287859242,0.32216091417409953,28.35016044732076
+124,Percent one race and american indian and alaska native,IA,Micropolitan Statistical Area,-0.24786507122042292,0.3374512065950672,29.695706180365917
+125,Percent one race and american indian and alaska native,NY,Metropolitan Statistical Area,0.15836621768486697,0.3422978499191933,30.122210792889014
+126,Percent one race and black or african american,FL,Metropolitan Statistical Area,0.1436825512579488,0.35212003330513075,30.986562930851505
+127,Percent hispanic,MD,Rural Area,-0.8506820919688587,0.3523784984819036,31.009307866407518
+128,Percent hispanic,MN,Rural Area,-0.14200810596576152,0.36367491862428936,32.003392838937465
+129,Median age,MN,Micropolitan Statistical Area,-0.23396704399725554,0.36608637592505977,32.21560108140526
+130,Percent one race and american indian and alaska native,CA,Micropolitan Statistical Area,0.37048112542199374,0.36629410950603236,32.233881636530846
+131,Percent hispanic,MI,Rural Area,-0.16194895905971796,0.37586597459221893,33.076205764115265
+132,Percent one race and asian,CA,Micropolitan Statistical Area,0.36347563281708967,0.3761296334970733,33.09940774774245
+133,Average household size,FL,Micropolitan Statistical Area,-0.3888935168710299,0.3885641268405681,34.193643161969995
+134,Percent one race and black or african american,NY,Micropolitan Statistical Area,-0.24418494891629222,0.40016899805884865,35.21487182917868
+135,Percent uninsured,MI,Rural Area,-0.15327457239195025,0.4022998572038542,35.40238743393917
+136,Median age,CA,Rural Area,-0.24894242126967747,0.4121209371020827,36.26664246498328
+137,Percent uninsured,MN,Metropolitan Statistical Area,-0.16410692859945114,0.41339025049976447,36.37834204397927
+138,Average household size,IA,Metropolitan Statistical Area,-0.18833909295019108,0.4135945556491258,36.39632089712307
+139,Median age,MD,Metropolitan Statistical Area,0.19837664123570412,0.41556545936008354,36.56976042368735
+140,Percent one race and some other race,NY,Metropolitan Statistical Area,0.13484498318190374,0.41956908781627256,36.922079727831985
+141,Median income,CA,Rural Area,-0.2449292647109289,0.41994273347330896,36.95496054565119
+142,Percent one race and white,CA,Rural Area,0.24470443466821495,0.4203831298633119,36.993715427971445
+143,Percent one race and native hawaiian and other pacific islander,NY,Micropolitan Statistical Area,0.23369827545858166,0.4213264915279668,37.07673125446108
+144,Median income,MD,Metropolitan Statistical Area,-0.1956061592834158,0.42223997878792513,37.15711813333741
+145,Median age,MD,Rural Area,0.786442611606449,0.4238411139232431,37.29801802524539
+146,Median income,MN,Micropolitan Statistical Area,0.20762547186317787,0.4239268758816224,37.30556507758277
+147,Percent one race and white,FL,Rural Area,-0.21054953523903774,0.43379367879306663,38.173843733789866
+148,Percent one race and american indian and alaska native,MN,Micropolitan Statistical Area,-0.1961984869678199,0.450422237288713,39.637156881406746
+149,Median income,IA,Micropolitan Statistical Area,0.19515006234648533,0.4528944243750101,39.85470934500089
+150,Percent one race and white,IA,Rural Area,-0.09653076038665036,0.4592617624097526,40.415035092058226
+151,Percent one race and white,MD,Rural Area,0.7410659524826885,0.4686411367103938,41.240420030514656
+152,Average household size,IA,Rural Area,-0.09400672514681745,0.4711403901908093,41.46035433679122
+153,Percent one race and native hawaiian and other pacific islander,MD,Rural Area,0.7236771221072454,0.4849009893907769,42.671287066388366
+154,Percent one race and native hawaiian and other pacific islander,IA,Metropolitan Statistical Area,0.15981074470698903,0.4889569194243815,43.02820890934557
+155,Percent one race and american indian and alaska native,MN,Metropolitan Statistical Area,-0.13752687096434432,0.49393875326583536,43.466610287393515
+156,Median income,FL,Rural Area,-0.18427125594987542,0.49449230665139604,43.515322985322854
+157,Percent one race and native hawaiian and other pacific islander,FL,Micropolitan Statistical Area,-0.30082841334563587,0.5120893539204107,45.06386314499614
+158,Percent one race and white,MN,Rural Area,0.10193378729615042,0.51541737544854,45.356729039471524
+159,Percent one race and some other race,FL,Micropolitan Statistical Area,-0.2977243385891585,0.5166671133020493,45.466705970580335
+160,Percent uninsured,NY,Micropolitan Statistical Area,0.18848539994113714,0.5187200795978285,45.64736700460891
+161,Median income,CA,Micropolitan Statistical Area,0.26910311543053744,0.5192618301372985,45.695041052082274
+162,Percent hispanic,MI,Metropolitan Statistical Area,0.1322529766770315,0.5195538626925693,45.7207399169461
+163,Percent uninsured,CA,Rural Area,-0.190625528258996,0.5327463689528761,46.881680467853094
+164,Percent uninsured,MD,Metropolitan Statistical Area,-0.1524472122935542,0.5332526590560684,46.92623399693402
+165,Median age,CA,Micropolitan Statistical Area,-0.25808266959714043,0.5371531628365567,47.26947832961699
+166,Percent one race and black or african american,MD,Rural Area,-0.6590432049797744,0.5419228563511157,47.689211358898184
+167,Percent one race and native hawaiian and other pacific islander,MN,Micropolitan Statistical Area,-0.15780167767241193,0.5452560363127,47.9825311955176
+168,Median age,NY,Micropolitan Statistical Area,-0.17516686183464097,0.549193533249979,48.329030925998154
+169,Percent one race and american indian and alaska native,FL,Micropolitan Statistical Area,-0.27442058374167905,0.5514707695887242,48.52942772380773
+170,Median income,MI,Rural Area,-0.09643652710408528,0.5995487618299397,52.76029104103469
+171,Percent one race and black or african american,CA,Micropolitan Statistical Area,0.21764415381516242,0.6046210550612623,53.20665284539108
+172,Percent one race and black or african american,IA,Rural Area,0.06541783669055491,0.6164438212275657,54.24705626802578
+173,Median income,MN,Rural Area,-0.07835689829476611,0.6174632284433222,54.33676410301236
+174,Median income,NY,Metropolitan Statistical Area,0.08215897639129581,0.6238692987110763,54.90049828657472
+175,Percent one race and some other race,IA,Rural Area,0.06364842648552209,0.6260311663622902,55.09074263988153
+176,Percent one race and american indian and alaska native,NY,Micropolitan Statistical Area,0.14089136286539522,0.6309244709942913,55.52135344749763
+177,Percent one race and some other race,MI,Micropolitan Statistical Area,0.09488088388941993,0.6518909438094255,57.36640305522944
+178,Percent one race and black or african american,IA,Micropolitan Statistical Area,0.11528198791226421,0.6595106815902251,58.03693997993981
+179,Percent one race and american indian and alaska native,MN,Rural Area,-0.06863761570174279,0.6618643472924545,58.244062561735994
+180,Percent uninsured,NY,Metropolitan Statistical Area,-0.073263960484692,0.6620163838881665,58.25744178215865
+181,Percent one race and white,CA,Micropolitan Statistical Area,-0.18107776160368375,0.6678279249383469,58.768857394574525
+182,Percent one race and native hawaiian and other pacific islander,FL,Metropolitan Statistical Area,0.0659749543665357,0.6704766952085007,59.00194917834806
+183,Percent one race and white,MN,Micropolitan Statistical Area,-0.11003202725420597,0.6741947567114703,59.32913859060939
+184,Percent one race and american indian and alaska native,NJ,Metropolitan Statistical Area,0.09208239138899918,0.6913815137186261,60.841573207239094
+185,Median income,NY,Rural Area,-0.14251072095257983,0.694512288436427,61.11708138240557
+186,Percent one race and asian,MD,Rural Area,-0.45790968913415747,0.6971966044004337,61.353301187238166
+187,Median age,MI,Rural Area,0.06936053346343762,0.7060199590908078,62.12975639999109
+188,Percent one race and white,MD,Metropolitan Statistical Area,0.09080955988333861,0.711589203913516,62.61984994438941
+189,Average household size,NY,Micropolitan Statistical Area,0.09744728932007514,0.740334840095856,65.14946592843533
+190,Percent uninsured,NY,Rural Area,0.1135691105442192,0.7547471170413415,66.41774629963805
+191,Percent one race and some other race,MI,Metropolitan Statistical Area,-0.06429111365456011,0.7550238589463479,66.44209958727862
+192,Percent uninsured,MN,Rural Area,-0.04871254815282782,0.7564080397547248,66.56390749841579
+193,Percent one race and asian,IA,Rural Area,0.040281418281454026,0.7579115106619337,66.69621293825017
+194,Average household size,MN,Metropolitan Statistical Area,0.06126082605541633,0.7614759058556306,67.0098797152955
+195,Percent one race and native hawaiian and other pacific islander,NJ,Metropolitan Statistical Area,-0.06991630983978322,0.7633028244507085,67.17064855166235
+196,Percent uninsured,FL,Micropolitan Statistical Area,0.12434878638129025,0.7905272391111563,69.56639704178176
+197,Percent one race and some other race,CA,Micropolitan Statistical Area,-0.10609915077181792,0.8025520020693202,70.62457618210018
+198,Percent one race and asian,IA,Micropolitan Statistical Area,-0.06451724960203253,0.80567838433409,70.89969782139993
+199,Percent one race and american indian and alaska native,MI,Micropolitan Statistical Area,0.05130747317967559,0.8075687180418301,71.06604718768105
+200,Percent uninsured,MN,Micropolitan Statistical Area,0.06315234188838993,0.8097178982704768,71.25517504780196
+201,Percent one race and american indian and alaska native,MD,Rural Area,-0.28165342271533317,0.8182343227241105,72.00462039972172
+202,Percent one race and black or african american,MD,Metropolitan Statistical Area,-0.05507493374042648,0.8228059305680498,72.40692188998838
+203,Average household size,NY,Metropolitan Statistical Area,0.03641747032290009,0.8281576553655188,72.87787367216565
+204,Percent one race and american indian and alaska native,MI,Metropolitan Statistical Area,-0.04379794262652143,0.8317601109288906,73.19488976174237
+205,Percent one race and american indian and alaska native,IA,Rural Area,-0.027315238844371096,0.8344761383529766,73.43390017506195
+206,Median income,MI,Micropolitan Statistical Area,0.03728325096826497,0.8595605978386333,75.64133260979973
+207,Percent one race and native hawaiian and other pacific islander,NY,Metropolitan Statistical Area,0.028425031257789574,0.8654785843857697,76.16211542594773
+208,Percent uninsured,MD,Rural Area,0.18845347327558853,0.8793050621091615,77.3788454656062
+209,Percent uninsured,MI,Metropolitan Statistical Area,-0.031283667133602214,0.8794175565443418,77.38874497590209
+210,Percent hispanic,IA,Rural Area,0.01862919457601214,0.8866843493891773,78.02822274624761
+211,Percent one race and asian,MD,Metropolitan Statistical Area,-0.03378538116024837,0.8907875865659084,78.38930761779994
+212,Average household size,CA,Rural Area,-0.039034350980219075,0.8992524794530421,79.1342181918677
+213,Percent one race and some other race,MN,Rural Area,-0.017471687189850003,0.9114562638622766,80.20815121988035
+214,Percent one race and native hawaiian and other pacific islander,FL,Rural Area,0.028292312445826067,0.9171621472127451,80.71026895472157
+215,Median age,IA,Rural Area,0.013371767364911406,0.9185337944445734,80.83097391112246
+216,Percent hispanic,FL,Micropolitan Statistical Area,-0.044586574359796995,0.924382694990009,81.3456771591208
+217,Percent one race and some other race,CA,Metropolitan Statistical Area,0.016131416422111237,0.9245040527272674,81.35635663999953
+218,Median age,FL,Rural Area,0.024517221791463442,0.9281867329853744,81.68043250271295
+219,Percent hispanic,IA,Micropolitan Statistical Area,0.021498716165674114,0.9347274603147321,82.25601650769643
+220,Percent one race and white,NY,Micropolitan Statistical Area,0.021203070272992623,0.9426456098946251,82.95281367072701
+221,Percent one race and some other race,IA,Micropolitan Statistical Area,-0.014937340259474104,0.9546250530627962,84.00700466952607
+222,Percent uninsured,CA,Micropolitan Statistical Area,0.020911641122815655,0.9608021021356016,84.55058498793294
+223,Percent one race and native hawaiian and other pacific islander,IA,Rural Area,-0.005620539249786416,0.9657095181355804,84.98243759593107
+224,Percent one race and asian,MN,Rural Area,0.006004962721263682,0.9695145474697373,85.31728017733688
+225,Percent one race and asian,FL,Rural Area,0.010356290119125894,0.9696354793035522,85.3279221787126
+226,Average household size,NY,Rural Area,0.012058361120866966,0.9736261701334219,85.67910297174113
+227,Percent one race and american indian and alaska native,MD,Metropolitan Statistical Area,-0.007888776444363185,0.9744304202486566,85.74987698188178
+228,Percent uninsured,IA,Rural Area,-0.0021283124711656276,0.9870119896512599,86.85705508931088
+229,Percent one race and white,IA,Micropolitan Statistical Area,-0.0032084323975038855,0.9902492956200749,87.14193801456659
+230,Percent one race and some other race,MD,Micropolitan Statistical Area,-1.0,1.0,88.0
+231,Percent hispanic,MD,Micropolitan Statistical Area,1.0,1.0,88.0
+232,Median income,MD,Micropolitan Statistical Area,1.0,1.0,88.0
+233,Percent one race and american indian and alaska native,MD,Micropolitan Statistical Area,-1.0,1.0,88.0
+234,Median age,MD,Micropolitan Statistical Area,1.0,1.0,88.0
+235,Percent uninsured,MD,Micropolitan Statistical Area,1.0,1.0,88.0
+236,Percent one race and black or african american,MD,Micropolitan Statistical Area,-1.0,1.0,88.0
+237,Percent one race and asian,MD,Micropolitan Statistical Area,1.0,1.0,88.0
+238,Percent one race and white,MD,Micropolitan Statistical Area,1.0,1.0,88.0
+239,Percent one race and native hawaiian and other pacific islander,NY,Rural Area,,,
+240,Percent one race and native hawaiian and other pacific islander,MD,Micropolitan Statistical Area,,,
+241,Average household size,MD,Micropolitan Statistical Area,,,
