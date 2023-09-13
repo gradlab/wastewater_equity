@@ -339,7 +339,7 @@ def plot_cat_var(ahsn, labels, ahsdict, cat_var, figsize = (4,8), plot_err = Tru
     plt.gca().invert_yaxis()
     plt.xscale('log')
     plt.ylabel('')
-    plt.xlabel('Percentage of weighted households')
+    plt.xlabel('Fraction of weighted households')
     plt.title(ahsdict[ahsdict['Variable'] == cat_var]['Description'].values[0])
     plt.tight_layout()
     return fig
