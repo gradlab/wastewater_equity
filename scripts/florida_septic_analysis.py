@@ -76,8 +76,14 @@ total_households_var = 'DP05_0081E'
 pop_thresh = 20
 households_thresh = 5
 
+pop_size = merged[total_pop_var].sum()
+num_households = merged[total_households_var].sum()
+
 merged = merged[merged[total_pop_var]>=pop_thresh]
 merged = merged[merged[total_households_var]>=households_thresh]
+
+print('% population size after threshold = ', merged[total_pop_var].sum()/pop_size)
+print('% households after threshold = ', merged[total_households_var].sum()/num_households)
 
 # Use the census data to calculate the fraction of households on septic
 

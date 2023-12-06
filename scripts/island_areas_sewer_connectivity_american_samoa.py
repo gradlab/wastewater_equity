@@ -90,9 +90,15 @@ total_households_var = 'DP1_0128C'
 pop_thresh = 20
 households_thresh = 5
 
+pop_size = merged[total_pop_var].sum()
+num_households = merged[total_households_var].sum()
+
 merged = merged[merged[total_pop_var]>=pop_thresh]
 merged = merged[merged[total_households_var]>=households_thresh]
 merged.reset_index(inplace = True, drop = True)
+
+print('% population size after threshold = ', merged[total_pop_var].sum()/pop_size)
+print('% households after threshold = ', merged[total_households_var].sum()/num_households)
 
 merged['frac_sewer'] = census['DP4_0064C']/census['DP4_0063C']
 merged['frac_septic'] = census['DP4_0065C']/census['DP4_0063C']

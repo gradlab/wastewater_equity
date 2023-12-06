@@ -136,10 +136,15 @@ total_households_var = 'DP02_0001E'
 pop_thresh = 20
 households_thresh = 5
 
+pop_size = merged[total_pop_var].sum()
+num_households = merged[total_households_var].sum()
+
 merged = merged[merged[total_pop_var]>=pop_thresh]
 merged = merged[merged[total_households_var]>=households_thresh]
+merged.reset_index(inplace = True, drop = True)
 
-merged.reset_index(drop = True, inplace = True)
+print('% population size after threshold = ', merged[total_pop_var].sum()/pop_size)
+print('% households after threshold = ', merged[total_households_var].sum()/num_households)
 
 # Put max fraction of population receiving collection at 1
 merged.loc[merged['frac_collection']>1,'frac_collection']=1
