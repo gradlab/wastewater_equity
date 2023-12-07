@@ -55,9 +55,9 @@ variables=[
     },
     {
         'variable_type':'POOR',
-        'variable_type_description':'Poverty level',
-        'variable_values':[0, 100],
-        'variable_descriptions':['In poverty', 'Not in poverty']
+        'variable_type_description':'Household income as percent of poverty threshold',
+        'variable_values':[0, 50, 100, 150, 200],
+        'variable_descriptions':['<50%', '50-99%', '100-149%', '150-199%', '>=200%']
     },
     {
         'variable_type':'PER',

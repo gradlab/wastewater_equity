@@ -24,7 +24,7 @@ variables=[
         'variable_type':'HHRACE',
         'variable_type_description':'Householder race (one race)',
         'variable_values':['01', '02', '03', '04', '05'],
-        'variable_descriptions':['White', 'Black or African American', 'American Indian and Alaska Native', 'Asian', 'Native Hawaiian and Other Pacific Islander']
+        'variable_descriptions':['White', 'Black or\nAfrican American', 'American Indian\nand Alaska Native', 'Asian', 'Native Hawaiian\nand Other Pacific\nIslander']
     },
     {
         'variable_type':'HHSPAN',
@@ -40,9 +40,9 @@ variables=[
     },
     {
         'variable_type':'POOR',
-        'variable_type_description':'Poverty level',
-        'variable_values':['0', '100'],
-        'variable_descriptions':['In poverty', 'Not in poverty']
+        'variable_type_description':'Household income as percent of poverty threshold',
+        'variable_values':['0', '50', '100', '150', '200'],
+        'variable_descriptions':['<50%', '50-99%', '100-149%', '150-199%', '$\geq$200%']
     },
     {
         'variable_type':'PER',

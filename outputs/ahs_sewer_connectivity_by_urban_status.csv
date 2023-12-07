@@ -69,16 +69,31 @@
 27,METRO3,5,"Outside MSA, rural",HHAGE,Householder age,50,50-64,33.42129942859427,31.473410996271376,35.46154755691219,2058
 28,METRO3,5,"Outside MSA, rural",HHAGE,Householder age,65,65-74,33.1390279751708,30.73887495858743,35.83905221168929,1104
 29,METRO3,5,"Outside MSA, rural",HHAGE,Householder age,75,75+,38.706937720585195,36.47810838010601,40.91156343892272,920
-0,METRO3,1,Central city of MSA,POOR,Poverty level,0,In poverty,99.3386879787526,99.21978129894222,99.49722134480336,5344
-1,METRO3,1,Central city of MSA,POOR,Poverty level,100,Not in poverty,98.715472990091,98.57463707910415,98.86059238550907,14335
-2,METRO3,2,"Inside MSA, but not in central city - urban",POOR,Poverty level,0,In poverty,94.4832249875064,93.99765534336409,95.0398563477527,3490
-3,METRO3,2,"Inside MSA, but not in central city - urban",POOR,Poverty level,100,Not in poverty,93.25088485178965,92.99286529403334,93.46189981323323,19963
-4,METRO3,3,"Inside MSA, but not in central city - rural",POOR,Poverty level,0,In poverty,53.111090403108186,50.70065345830779,55.029750804108495,693
-5,METRO3,3,"Inside MSA, but not in central city - rural",POOR,Poverty level,100,Not in poverty,49.875398246404934,48.88298017161476,50.769811400342604,5812
-6,METRO3,4,"Outside MSA, urban",POOR,Poverty level,0,In poverty,97.21734317444471,96.60567894847654,97.89712391251282,1051
-7,METRO3,4,"Outside MSA, urban",POOR,Poverty level,100,Not in poverty,94.60154956655457,93.8770896144699,95.19791689229973,3014
-8,METRO3,5,"Outside MSA, rural",POOR,Poverty level,0,In poverty,50.14220251316113,47.6268283854141,53.342475379744066,1065
-9,METRO3,5,"Outside MSA, rural",POOR,Poverty level,100,Not in poverty,36.491731694441974,34.6656008724603,38.239835676154044,5330
+0,METRO3,1,Central city of MSA,POOR,Household income as percent of poverty threshold,0,<50%,99.3649782465984,99.15759036179416,99.52844941460059,2650
+1,METRO3,1,Central city of MSA,POOR,Household income as percent of poverty threshold,50,50-99%,99.31340669596065,99.09450585006998,99.535765676756,2694
+2,METRO3,1,Central city of MSA,POOR,Household income as percent of poverty threshold,100,100-149%,99.21162971201393,99.00424766284621,99.41426371458087,2339
+3,METRO3,1,Central city of MSA,POOR,Household income as percent of poverty threshold,150,150-199%,98.86364177559722,98.58249267916655,99.13413458460423,1862
+4,METRO3,1,Central city of MSA,POOR,Household income as percent of poverty threshold,200,>=200%,98.60031327784513,98.41462524405472,98.78368691056406,10134
+5,METRO3,2,"Inside MSA, but not in central city - urban",POOR,Household income as percent of poverty threshold,0,<50%,95.21935251814402,94.62832589955737,95.81444784873639,1745
+6,METRO3,2,"Inside MSA, but not in central city - urban",POOR,Household income as percent of poverty threshold,50,50-99%,93.72514352451756,93.05373856399541,94.61083987460445,1745
+7,METRO3,2,"Inside MSA, but not in central city - urban",POOR,Household income as percent of poverty threshold,100,100-149%,94.34457423162323,93.6864259974262,94.9191349051118,2026
+8,METRO3,2,"Inside MSA, but not in central city - urban",POOR,Household income as percent of poverty threshold,150,150-199%,93.21182188022894,92.52947914383235,93.86064681641656,2082
+9,METRO3,2,"Inside MSA, but not in central city - urban",POOR,Household income as percent of poverty threshold,200,>=200%,93.12769756057389,92.8599043599402,93.36415117697844,15855
+10,METRO3,3,"Inside MSA, but not in central city - rural",POOR,Household income as percent of poverty threshold,0,<50%,53.406991103105206,50.569112438023915,56.19869630477444,319
+11,METRO3,3,"Inside MSA, but not in central city - rural",POOR,Household income as percent of poverty threshold,50,50-99%,52.85651576060106,49.4853958560105,55.80074324948071,374
+12,METRO3,3,"Inside MSA, but not in central city - rural",POOR,Household income as percent of poverty threshold,100,100-149%,54.06146549020632,51.40522862344347,56.55263725699468,512
+13,METRO3,3,"Inside MSA, but not in central city - rural",POOR,Household income as percent of poverty threshold,150,150-199%,51.89292659287654,49.909009928471946,54.26838617460329,572
+14,METRO3,3,"Inside MSA, but not in central city - rural",POOR,Household income as percent of poverty threshold,200,>=200%,49.16269887939681,48.17981862611163,50.173171556168846,4728
+15,METRO3,4,"Outside MSA, urban",POOR,Household income as percent of poverty threshold,0,<50%,96.62360160379417,95.65406700996596,97.57686565480711,469
+16,METRO3,4,"Outside MSA, urban",POOR,Household income as percent of poverty threshold,50,50-99%,97.69221815219369,96.98688476132578,98.41864132922616,582
+17,METRO3,4,"Outside MSA, urban",POOR,Household income as percent of poverty threshold,100,100-149%,97.18182446924814,96.21268217633482,98.22825023988393,532
+18,METRO3,4,"Outside MSA, urban",POOR,Household income as percent of poverty threshold,150,150-199%,96.00720536625545,94.645655577802,97.13995245650487,441
+19,METRO3,4,"Outside MSA, urban",POOR,Household income as percent of poverty threshold,200,>=200%,93.71331541834277,92.93910707291518,94.36950882477807,2041
+20,METRO3,5,"Outside MSA, rural",POOR,Household income as percent of poverty threshold,0,<50%,48.38009385047882,45.56617533782799,51.19203936630118,451
+21,METRO3,5,"Outside MSA, rural",POOR,Household income as percent of poverty threshold,50,50-99%,51.43427586341965,48.171163812777344,55.12619826963116,614
+22,METRO3,5,"Outside MSA, rural",POOR,Household income as percent of poverty threshold,100,100-149%,38.88578387999037,36.34104805563727,41.506755323351655,740
+23,METRO3,5,"Outside MSA, rural",POOR,Household income as percent of poverty threshold,150,150-199%,38.25631482825628,35.82173297287613,40.34468804187743,748
+24,METRO3,5,"Outside MSA, rural",POOR,Household income as percent of poverty threshold,200,>=200%,35.686175137843975,33.69689836704052,37.404257713492136,3842
 0,METRO3,1,Central city of MSA,PER,Household size,1,1,99.34084526582981,99.23949508423468,99.42831846359125,6910
 1,METRO3,1,Central city of MSA,PER,Household size,2,2,98.47631165441155,98.26720823483038,98.66696638400133,5744
 2,METRO3,1,Central city of MSA,PER,Household size,3,3,98.84192135006069,98.62176092566958,99.07713355063629,2870
