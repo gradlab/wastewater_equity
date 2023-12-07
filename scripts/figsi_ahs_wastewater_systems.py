@@ -18,6 +18,6 @@ ahsdict = pd.read_csv('../data/ahs/ahsdict_2019_2021_04OCT22_10_42_49_75_2021.cs
 
 # Make plot
 ahsn = fnc.cleanup_column(ahsn, 'SEWTYPE', ahsdict)
-fig = fnc.plot_cat_var(ahsn, labels, ahsdict, 'SEWTYPE', figsize = (9,4), plot_err = True)
+fig = fnc.plot_cat_var(ahsn, labels, ahsdict, 'SEWTYPE', figsize = (9.5,4), plot_err = True)
 fig.savefig('../figures/figsi_ahs_wastewater_systems.png')
 fig.savefig('../figures/figsi_ahs_wastewater_systems.pdf')

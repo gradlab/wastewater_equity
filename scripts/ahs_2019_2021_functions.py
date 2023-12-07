@@ -53,6 +53,14 @@ def get_weighted_counts(ahsn,var,values):
         weighted_counts.append(df['WEIGHT'].sum())
     return weighted_counts
 
+def get_num_observations(ahsn,var,values):
+    """Returns the number of sampled households"""
+    num_observations = []
+    for value in values:
+        df = ahsn[ahsn[var]==value]
+        num_observations.append(len(df))
+    return num_observations
+
 def get_weighted_counts_err(ahsn, var, values):
     """Calculates the 95% CIs for the weighted counts"""
     num_reps = 160
@@ -172,7 +180,8 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                        'percent_sewered_delta':[],
                        'percent_sewered_delta_lower':[],
                        'percent_sewered_delta_upper':[],
-                       'pvalue':[]}
+                       'pvalue':[],
+                      'num_observations':[]}
 
     # Check if the variable is categorical
     if variable_class == 'C':
@@ -205,6 +214,7 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                     percent_sewered['percent_sewered_delta_lower'].append(weighted_percent_rep_95ci_lower[0])
                     percent_sewered['percent_sewered_delta_upper'].append(weighted_percent_rep_95ci_upper[0])
                     percent_sewered['pvalue'].append(pvalue[0])
+                    percent_sewered['num_observations'].append(len(df2))
                 else:
                     percent_sewered['percent_sewered'].append(np.nan)
                     percent_sewered['percent_sewered_lower'].append(np.nan)
@@ -214,7 +224,7 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                     percent_sewered['percent_sewered_delta_lower'].append(np.nan)
                     percent_sewered['percent_sewered_delta_upper'].append(np.nan)     
                     percent_sewered['pvalue'].append(np.nan)
-              
+                    percent_sewered['num_observations'].append(len(df2))
     # Check if the variable is numerical
     elif variable_class == 'N':
         # Remove households that had "not applicable" entry for this variable
@@ -258,6 +268,7 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                     percent_sewered['percent_sewered_delta_lower'].append(weighted_percent_rep_95ci_lower[0])
                     percent_sewered['percent_sewered_delta_upper'].append(weighted_percent_rep_95ci_upper[0])
                     percent_sewered['pvalue'].append(pvalue[0])
+                    percent_sewered['num_observations'].append(len(df2))
                 else:
                     percent_sewered['percent_sewered'].append(np.nan)
                     percent_sewered['percent_sewered_lower'].append(np.nan)
@@ -267,6 +278,7 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                     percent_sewered['percent_sewered_delta_lower'].append(np.nan)
                     percent_sewered['percent_sewered_delta_upper'].append(np.nan)  
                     percent_sewered['pvalue'].append(np.nan)
+                    percent_sewered['num_observations'].append(len(df2))
                     
     else:
         raise ValueError('Variable class is neither categorical (C) nor numerical (N): ' + variable_class)
@@ -290,7 +302,8 @@ def get_percent_sewered_overall(ahs, geo_type, labels, min_households = 5):
                                'variable_description':[],
                                'percent_sewered':[], 
                                'percent_sewered_lower':[], 
-                               'percent_sewered_upper':[]})
+                               'percent_sewered_upper':[],
+                           'num_observations':[]})
 
     variable_type = 'overall'
     variable_type_description = 'Overall'
@@ -309,7 +322,7 @@ def get_percent_sewered_overall(ahs, geo_type, labels, min_households = 5):
         _, _, _, weighted_percent_rep_95ci_lower, weighted_percent_rep_95ci_upper = get_weighted_percent_err(df, 'SEWTYPE_summary', ['Public sewer'])
         percent_sewered['percent_sewered_lower'].append(weighted_percent_rep_95ci_lower[0])
         percent_sewered['percent_sewered_upper'].append(weighted_percent_rep_95ci_upper[0])
-
+        percent_sewered['num_observations'].append(len(df))
     return pd.DataFrame(percent_sewered)
 
 def plot_cat_var(ahsn, labels, ahsdict, cat_var, figsize = (4,8), plot_err = True):
@@ -317,29 +330,28 @@ def plot_cat_var(ahsn, labels, ahsdict, cat_var, figsize = (4,8), plot_err = Tru
     fig = plt.figure(figsize = figsize)
     
     values = get_labels(labels, cat_var)['Value'].values
-    weighted_counts = get_weighted_counts(ahsn, cat_var, values)
+    weighted_counts = np.array(get_weighted_counts(ahsn, cat_var, values))
     total_weighted_households = np.sum(weighted_counts)
-    
+    num_observations = np.array(get_num_observations(ahsn, cat_var, values))
+
     x = np.array(range(len(values)))
     
     if plot_err: 
         weighted_counts_rep_mean, weighted_counts_rep_var, weighted_counts_rep_95ci, weighted_counts_rep_95ci_lower, weighted_counts_rep_95ci_upper = get_weighted_counts_err(ahsn, cat_var, values)        
-        p = plt.barh(x, weighted_counts/total_weighted_households, xerr = np.array([weighted_counts-weighted_counts_rep_95ci_lower, weighted_counts_rep_95ci_upper-weighted_counts])/total_weighted_households)
+        p = plt.barh(x, 100*weighted_counts/total_weighted_households, xerr = 100*np.array([weighted_counts-weighted_counts_rep_95ci_lower, weighted_counts_rep_95ci_upper-weighted_counts])/total_weighted_households)
     else:
-        p = plt.barh(x, weighted_counts/total_weighted_households)
+        p = plt.barh(x, 100*weighted_counts/total_weighted_households)
 
     plt.yticks(ticks = x, labels = get_labels(labels, cat_var)['Label'].values)
     
     for i in range(len(x)):
-        if weighted_counts[i]/total_weighted_households<0.01:
-            plt.text(1.5, x[i]+0.2, "{:.1E}".format(weighted_counts[i]/total_weighted_households))
-        else:
-            plt.text(1.5, x[i]+0.2, str(round(weighted_counts[i]/total_weighted_households, 2)))
-            
+        plt.text(150, x[i]+0.2, str(round(100*weighted_counts[i]/total_weighted_households, 2))+'%, n=' + str(num_observations[i]))
+    
     plt.gca().invert_yaxis()
     plt.xscale('log')
+    # plt.ticklabel_format(axis = 'x', style = 'plain')
     plt.ylabel('')
-    plt.xlabel('Fraction of weighted households')
+    plt.xlabel('Percentage of weighted households')
     plt.title(ahsdict[ahsdict['Variable'] == cat_var]['Description'].values[0])
     plt.tight_layout()
     return fig

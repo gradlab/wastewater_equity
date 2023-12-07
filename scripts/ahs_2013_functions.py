@@ -152,7 +152,8 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                        'variable_description':[],
                        'percent_sewered':[], 
                        'percent_sewered_lower':[], 
-                       'percent_sewered_upper':[]}
+                       'percent_sewered_upper':[],
+                      'num_observations':[]}
 
     # Check if the variable is categorical
     if variable_class == 'C':
@@ -178,10 +179,12 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                     _, _, _, weighted_percent_rep_95ci_lower, weighted_percent_rep_95ci_upper = get_weighted_percent_err(df2, 'SEWTYPE_summary', ['Public sewer'])
                     percent_sewered['percent_sewered_lower'].append(weighted_percent_rep_95ci_lower[0])
                     percent_sewered['percent_sewered_upper'].append(weighted_percent_rep_95ci_upper[0])
+                    percent_sewered['num_observations'].append(len(df2))
                 else:
                     percent_sewered['percent_sewered'].append(np.nan)
                     percent_sewered['percent_sewered_lower'].append(np.nan)
                     percent_sewered['percent_sewered_upper'].append(np.nan)
+                    percent_sewered['num_observations'].append(len(df2))
               
     # Check if the variable is numerical
     elif variable_class == 'N':
@@ -218,10 +221,12 @@ def get_percent_sewered(ahs, geo_type, ahsdict, labels, variable_type, variable_
                     _, _, _, weighted_percent_rep_95ci_lower, weighted_percent_rep_95ci_upper = get_weighted_percent_err(df2, 'SEWTYPE_summary', ['Public sewer'])
                     percent_sewered['percent_sewered_lower'].append(weighted_percent_rep_95ci_lower[0])
                     percent_sewered['percent_sewered_upper'].append(weighted_percent_rep_95ci_upper[0])
+                    percent_sewered['num_observations'].append(len(df2))
                 else:
                     percent_sewered['percent_sewered'].append(np.nan)
                     percent_sewered['percent_sewered_lower'].append(np.nan)
                     percent_sewered['percent_sewered_upper'].append(np.nan)
+                    percent_sewered['num_observations'].append(len(df2))
     else:
         raise ValueError('Variable class is neither categorical (C) nor numerical (N): ' + variable_class)
         
@@ -244,7 +249,8 @@ def get_percent_sewered_overall(ahs, geo_type, labels, min_households = 5):
                                'variable_description':[],
                                'percent_sewered':[], 
                                'percent_sewered_lower':[], 
-                               'percent_sewered_upper':[]})
+                               'percent_sewered_upper':[],
+                           'num_observations':[]})
 
     variable_type = 'overall'
     variable_type_description = 'Overall'
@@ -263,5 +269,5 @@ def get_percent_sewered_overall(ahs, geo_type, labels, min_households = 5):
         _, _, _, weighted_percent_rep_95ci_lower, weighted_percent_rep_95ci_upper = get_weighted_percent_err(df, 'SEWTYPE_summary', ['Public sewer'])
         percent_sewered['percent_sewered_lower'].append(weighted_percent_rep_95ci_lower[0])
         percent_sewered['percent_sewered_upper'].append(weighted_percent_rep_95ci_upper[0])
-
+        percent_sewered['num_observations'].append(len(df))
     return pd.DataFrame(percent_sewered)
