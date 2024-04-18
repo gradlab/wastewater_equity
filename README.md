@@ -1,5 +1,9 @@
 # wastewater_equity
-Data and code for "Assessment of sewer connectivity in the United States and its implications for equity in wastewater-based epidemiology"
+Data and code for:
+
+QinQin Yu, Scott W. Olesen, Claire Duvallet, and Yonatan Grad. Assessment of sewer connectivity in the United States and its implications for equity in wastewater-based epidemiology, PLOS Global Public Health, 2024. https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0003039
+
+Preprint: https://www.medrxiv.org/content/10.1101/2023.05.24.23290486v2
 
 ## scripts/
 * `ahs*.py`: scripts and functions for the analysis of the American Housing Survey data. `ahs_download_data.py` should be run first, then the other scripts.
